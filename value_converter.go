@@ -9,8 +9,8 @@ import (
 	"net"
 	"reflect"
 
-	"github.com/kshvakov/clickhouse/lib/column"
-	"github.com/kshvakov/clickhouse/lib/types"
+	"github.com/irukeru/clickhouse/lib/column"
+	"github.com/irukeru/clickhouse/lib/types"
 )
 
 var _converter = &converter{}

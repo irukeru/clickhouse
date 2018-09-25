@@ -1,8 +1,8 @@
 package clickhouse
 
 import (
-	"github.com/kshvakov/clickhouse/lib/data"
-	"github.com/kshvakov/clickhouse/lib/protocol"
+	"github.com/irukeru/clickhouse/lib/data"
+	"github.com/irukeru/clickhouse/lib/protocol"
 )
 
 func (ch *clickhouse) writeBlock(block *data.Block) error {

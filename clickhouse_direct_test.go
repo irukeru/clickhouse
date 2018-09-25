@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kshvakov/clickhouse"
-	"github.com/kshvakov/clickhouse/lib/column"
-	"github.com/kshvakov/clickhouse/lib/types"
+	"github.com/irukeru/clickhouse"
+	"github.com/irukeru/clickhouse/lib/column"
+	"github.com/irukeru/clickhouse/lib/types"
 	"github.com/stretchr/testify/assert"
 )
 
